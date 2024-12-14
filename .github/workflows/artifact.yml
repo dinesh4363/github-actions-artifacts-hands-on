@@ -31,7 +31,7 @@ jobs:
       run: |
         pwd
         ls -lrth
-        cat hellow.txt
+        cat hello.txt
 
 
 
