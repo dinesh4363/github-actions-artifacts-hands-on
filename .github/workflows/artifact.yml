@@ -27,5 +27,10 @@ jobs:
       uses: actions/download-artifact@v4
       with:
         name: hello-artifact
+    - name: List of cmds
+      run: |
+        pwd
+        ls -lrth
+
 
 
