@@ -31,6 +31,7 @@ jobs:
       run: |
         pwd
         ls -lrth
+        cat hellow.txt
 
 
 
